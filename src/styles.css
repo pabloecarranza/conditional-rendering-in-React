@@ -1,0 +1,21 @@
+@import "https://fonts.googleapis.com/css?family=Muli";
+
+.App {
+  width: 970px;
+  margin: 0 auto;
+  font-family: "Muli", sans-serif;
+  text-align: center;
+  /* height: 90vh; */
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+}
+button {
+  background-color: green;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
